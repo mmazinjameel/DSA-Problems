@@ -1,6 +1,6 @@
 # DSA Problems
 
-### Here is the list of some of the top DSA problems I’ve solved. The list will be updated regularly.
+### Here is the list of some top DSA problems that I’ve solved. The list will be updated regularly.
 
 - **Dynamic Programming**
   - House Robber <a href="https://leetcode.com/problems/house-robber/description/" style="text-decoration:none;" target="_blank">🔗</a>
