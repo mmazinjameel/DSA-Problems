@@ -3,6 +3,7 @@
 ### Here is a list of some top DSA problems that I’ve solved. The list will be updated regularly.
 - **Array**
   - Insert Interval | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Insert_Interval.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/insert-interval/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Majority Element II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Majority_Element_ii.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/majority-element-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 - **Dynamic Programming**
   - House Robber | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/House_Robber.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/house-robber/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
