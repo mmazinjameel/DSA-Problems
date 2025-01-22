@@ -12,6 +12,10 @@
   - Triangle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Triangle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/triangle/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Jump Game | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Jump Game II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+  
+  - **Backtracking**
+  - Subsets | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
 
