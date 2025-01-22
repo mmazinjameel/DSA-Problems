@@ -14,7 +14,7 @@
   - Jump Game II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
   
-  - **Backtracking**
+- **Backtracking**
   - Subsets | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
