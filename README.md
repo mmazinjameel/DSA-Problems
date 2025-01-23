@@ -16,7 +16,7 @@
   
 - **Backtracking**
   - Subsets | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subsets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-  - Letter Combinations of a Phone Number | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subsets.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Letter Combinations of a Phone Number | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Letter_Combinations_of_a_phone_number.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
 
