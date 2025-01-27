@@ -27,6 +27,7 @@
 
 - **String**
   - Group Anagrams | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Group_Anagrams.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/group-anagrams/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Longest Substring Without Repeating Characters | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
 
