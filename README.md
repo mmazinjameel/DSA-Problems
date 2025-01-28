@@ -32,5 +32,6 @@
   
 - **Linked List**
   - Linked List Cycle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Linked_List_Cycle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/linked-list-cycle/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Middle of the Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Middle_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/middle-of-the-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
