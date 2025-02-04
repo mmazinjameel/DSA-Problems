@@ -11,6 +11,7 @@
   - Product of Array Except Self | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Product_of_array_except_itself.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/product-of-array-except-self/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximum Product Subarray | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Product_Subarray.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-product-subarray/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Minimum Size Subarray Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Size_Subarray_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Number of Subsequences That Satisfy the Given Sum Condition | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
 - **Dynamic Programming**
