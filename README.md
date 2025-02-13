@@ -13,6 +13,10 @@
   - Minimum Size Subarray Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Size_Subarray_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Number of Subsequences That Satisfy the Given Sum Condition | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Array With Elements Not Equal to Average of Neighbors | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Array_With_Elements_Not_Equal_to_Average_of_Neighbors.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+  - **Sliding Window**
+  - Fruit into Basket | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Fruit_into_Basket.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/fruit-into-baskets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   
 
 - **Dynamic Programming**
