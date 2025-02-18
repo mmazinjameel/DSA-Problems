@@ -1,6 +1,6 @@
 # DSA Problems
 
-### Here is a list of some top DSA problems that I’ve solved. The list will be updated regularly.
+### Here is a list of some top DSA problems that I’ve solved. List will be updated regularly.
 - **Array**
   - Insert Interval | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Insert_Interval.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/insert-interval/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Find Peak Element | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Find_Peak_Element.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-peak-element/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
@@ -31,6 +31,10 @@
 
 - **Greedy**
   - Boats to Save People | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Boats_to_Save_People.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/boats-to-save-people/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+- **Binary Search**
+  - Find K Closest Elements | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Find_K_Closest_Elements.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/find-k-closest-elements/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
   
 - **Backtracking**
