@@ -55,5 +55,12 @@
   - Linked List Cycle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Linked_List_Cycle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/linked-list-cycle/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Middle of the Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Middle_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/middle-of-the-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Palindrome Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Palindrome_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/palindrome-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Remove Nodes From Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Remove_Nodes_From_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+  - **Stack**
+  - Valid Parentheses | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Valid_parentheses.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/valid-parentheses/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Car Fleet | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Car_Fleet.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/car-fleet/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Palindrome Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Palindrome_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/palindrome-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
