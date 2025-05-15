@@ -61,6 +61,13 @@
   - **Stack**
   - Valid Parentheses | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Valid_parentheses.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/valid-parentheses/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Car Fleet | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Car_Fleet.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/car-fleet/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-  - Palindrome Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Palindrome_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/palindrome-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Decode String | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Decode_String.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/decode-string/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+  - **Binary Tree**
+  - Maximum Depth of Binary Tree | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Depth_of_binary_tree.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Diameter of Binary Tree | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Diameter_of_Binary_Tree.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/diameter-of-binary-tree/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Balanced Binary Tree | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Balanced_Binary_Tree.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/balanced-binary-tree/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
 
 
