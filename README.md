@@ -56,6 +56,7 @@
   - Middle of the Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Middle_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/middle-of-the-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Palindrome Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Palindrome_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/palindrome-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Remove Nodes From Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Remove_Nodes_From_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Reorder List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Reorder_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reorder-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Stack**
