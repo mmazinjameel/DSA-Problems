@@ -57,6 +57,8 @@
   - Palindrome Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Palindrome_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/palindrome-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Remove Nodes From Linked List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Remove_Nodes_From_Linked_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/remove-nodes-from-linked-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Reorder List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Reorder_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reorder-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Remove Nth Node From End of List | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Remove_Nth_Node_From_End_of_List.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Add Two Numbers | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Add_two_nos.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/add-two-numbers/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Stack**
@@ -74,8 +76,7 @@
 
 - **Binary Search Tree**
   - Insert Into a Binary Search Tree | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Insert_Into_a_Binary_Search_Tree.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-
-  - Minimum Distance Between BST Nodes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Balanced_Binary_Tree.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Minimum Distance Between BST Nodes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Distance_Between_BST_Nodes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
