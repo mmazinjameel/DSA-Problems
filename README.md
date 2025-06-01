@@ -65,6 +65,7 @@
   - Valid Parentheses | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Valid_parentheses.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/valid-parentheses/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Car Fleet | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Car_Fleet.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/car-fleet/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Decode String | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Decode_String.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/decode-string/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - 132 Pattern | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/132_pattern.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/132-pattern/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Binary Tree**
