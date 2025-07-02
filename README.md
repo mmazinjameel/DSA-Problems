@@ -18,6 +18,7 @@
   - Two Sum II - Input Array Is Sorted | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/2Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Number of Subsequences That Satisfy the Given Sum Condition | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
+
 - **Sliding Window**
   - Fruit into Baskets | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Fruit_into_Basket.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/fruit-into-baskets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximum Number of Vowels in a Substring of Given Length | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
@@ -31,6 +32,10 @@
   - Jump Game | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Jump Game II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Minimum Time to Make Rope Colorful | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Time_to_Make_Rope_Colorful.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+- **2D Dynamic Programming**
+  - Best Time to Buy and Sell Stock with Cooldown | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/best_time_stock_2D.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Greedy**
