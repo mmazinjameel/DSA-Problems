@@ -38,6 +38,7 @@
   - Best Time to Buy and Sell Stock with Cooldown | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/best_time_stock_2D.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Coin Change II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Coin_Change_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/coin-change-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Target Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Target_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/target-sum/submissions/1685661586/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Stone Game | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Stone_Game.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/stone-game/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Greedy**
