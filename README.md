@@ -33,6 +33,7 @@
   - Jump Game II | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Jump_Game_II.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/jump-game-ii/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Minimum Time to Make Rope Colorful | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Time_to_Make_Rope_Colorful.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - 2 Keys Keyboard | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/2_Keys_Keyboard.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/2-keys-keyboard/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Trail of ones | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Trail_of_ones.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/trail-of-ones3242/1" style="text-decoration:none;" target="_blank">Geeks for Geeks Link</a>
 
 
 - **2D Dynamic Programming**
@@ -42,6 +43,7 @@
   - Stone Game | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Stone_Game.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/stone-game/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximal Square | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximal_Square.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximal-square/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Count Square Submatrices with All Ones | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Count_Square_Submatrices_with_All_Ones.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Ones and Zeroes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Ones_and_Zeroes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/submissions/detail/1691684466/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Greedy**
