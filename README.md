@@ -46,6 +46,7 @@
   - Count Square Submatrices with All Ones | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Count_Square_Submatrices_with_All_Ones.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Ones and Zeroes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Ones_and_Zeroes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/submissions/detail/1691684466/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Gold Mine Problem | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Gold_Mine_Problem.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Number of Dice Rolls With Target Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Dice_Rolls_With_Target_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Greedy**
