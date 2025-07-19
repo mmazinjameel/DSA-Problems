@@ -47,6 +47,7 @@
   - Ones and Zeroes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Ones_and_Zeroes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/submissions/detail/1691684466/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Gold Mine Problem | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Gold_Mine_Problem.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Number of Dice Rolls With Target Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Dice_Rolls_With_Target_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Out of Boundary Paths | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Out_of_Boundary_Paths.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/out-of-boundary-paths/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Greedy**
