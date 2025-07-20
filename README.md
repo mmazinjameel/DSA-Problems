@@ -35,6 +35,7 @@
   - 2 Keys Keyboard | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/2_Keys_Keyboard.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/2-keys-keyboard/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Trail of ones | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Trail_of_ones.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/trail-of-ones3242/1" style="text-decoration:none;" target="_blank">Geeks for Geeks Link</a>
   - Maximum Alternating Subsequence Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Alternating_Subsequence_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/" style="text-decoration:none;" target="_blank">Geeks for Geeks Link</a>
+  - Longest Ideal Subsequence | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Ideal_Subsequence.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-ideal-subsequence/description/" style="text-decoration:none;" target="_blank">Geeks for Geeks Link</a>
 
 
 - **2D Dynamic Programming**
