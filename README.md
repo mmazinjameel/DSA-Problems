@@ -102,4 +102,9 @@
   - Minimum Distance Between BST Nodes | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Distance_Between_BST_Nodes.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
+- **Graphs**
+  - Island Perimeter | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/island-perimeter.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/island-perimeter/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
+
 
