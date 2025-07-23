@@ -12,6 +12,7 @@
   - Maximum Product Subarray | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Product_Subarray.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-product-subarray/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Minimum Size Subarray Sum | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Minimum_Size_Subarray_Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/minimum-size-subarray-sum/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Array With Elements Not Equal to Average of Neighbors | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Array_With_Elements_Not_Equal_to_Average_of_Neighbors.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Sum of Subarrays | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Sum_of_Subarrays.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Two Pointers**
