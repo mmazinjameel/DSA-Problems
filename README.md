@@ -15,6 +15,10 @@
   - Sum of Subarrays | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Sum_of_Subarrays.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
+- **Matrix**
+  - Make Matrix Beautiful | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/make_matrix_beautiful.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
 - **Two Pointers**
   - Two Sum II - Input Array Is Sorted | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/2Sum.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Number of Subsequences That Satisfy the Given Sum Condition | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
