@@ -24,6 +24,10 @@
   - Number of Subsequences That Satisfy the Given Sum Condition | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
+- **Prefix Sum**
+  - Subarray Sum Equals K | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subarray_Sum_Equals_K.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subarray-sum-equals-k/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
 - **Sliding Window**
   - Fruit into Baskets | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Fruit_into_Basket.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/fruit-into-baskets/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximum Number of Vowels in a Substring of Given Length | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
