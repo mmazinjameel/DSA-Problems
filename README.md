@@ -120,6 +120,7 @@
   - Max Area of Islands | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Max_Area_of_Islands.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/max-area-of-island/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximum Number of Fish in a Grid | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Number_of_Fish_in_a_Grid.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Rotting Oranges | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Rotting_Oranges.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/rotting-oranges/submissions/1716634863/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Count Sub Islands | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Count_Sub_Islands.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/count-sub-islands/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
