@@ -26,6 +26,7 @@
 
 - **Prefix Sum**
   - Subarray Sum Equals K | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Subarray_Sum_Equals_K.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/subarray-sum-equals-k/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Balancing Consonants and Vowels Ratio | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Balancing_Consonants_and_Vowels_Ratio.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/balancing-consonants-and-vowels-ratio/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Sliding Window**
