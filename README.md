@@ -121,6 +121,7 @@
   - Maximum Number of Fish in a Grid | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Number_of_Fish_in_a_Grid.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Rotting Oranges | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Rotting_Oranges.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/rotting-oranges/submissions/1716634863/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Count Sub Islands | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Count_Sub_Islands.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/count-sub-islands/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Reorder Routes to Make All Paths Lead to the City Zero | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 
