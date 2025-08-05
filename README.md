@@ -17,6 +17,7 @@
 
 - **Matrix**
   - Make Matrix Beautiful | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/make_matrix_beautiful.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Maximum Sum Rectangle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Sum_Rectangle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Two Pointers**
