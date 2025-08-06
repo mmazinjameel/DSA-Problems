@@ -17,6 +17,9 @@
 
 - **String**
   - Roman Number to Integer | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Roman_Number_to_Integer.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Group Anagrams | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Group_Anagrams.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/group-anagrams/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Longest Substring Without Repeating Characters | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+  - Longest Palindromic Substring | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Palindromic_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-palindromic-substring/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
 - **Matrix**
@@ -81,11 +84,6 @@
   - Word Search | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Word_Search.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/word-search/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
-- **String**
-  - Group Anagrams | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Group_Anagrams.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/group-anagrams/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-  - Longest Substring Without Repeating Characters | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-  - Longest Palindromic Substring | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Longest_Palindromic_Substring.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/longest-palindromic-substring/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
-  
   
 - **Linked List**
   - Linked List Cycle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Linked_List_Cycle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://leetcode.com/problems/linked-list-cycle/description/" style="text-decoration:none;" target="_blank">Leetcode Link</a>
