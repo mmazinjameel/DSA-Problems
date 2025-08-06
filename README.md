@@ -15,6 +15,10 @@
   - Sum of Subarrays | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Sum_of_Subarrays.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
 
 
+- **String**
+  - Roman Number to Integer | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Roman_Number_to_Integer.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
+
+
 - **Matrix**
   - Make Matrix Beautiful | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/make_matrix_beautiful.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
   - Maximum Sum Rectangle | <a href="https://github.com/mmazinjameel/DSA-Problems/blob/main/Codes/Maximum_Sum_Rectangle.ipynb" style="text-decoration:none;" target="_blank">  Problem & Solution</a> | <a href="https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1" style="text-decoration:none;" target="_blank">Leetcode Link</a>
